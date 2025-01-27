@@ -1,0 +1,1 @@
+This bug occurs when using the Expo `Camera` API with certain Android devices.  The camera preview may freeze or become unresponsive after a short period of time.  This is particularly noticeable when the app is in the background or when there are other resource-intensive operations running concurrently. The error is not always accompanied by a clear error message in the console.
